@@ -1,0 +1,22 @@
+{
+  "name": "gestorclientes",
+  "version": "1.0.0",
+  "description": "Un gestor de turnos",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felivasquez/GestorManicuria.git"
+  },
+  "author": "felivasquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felivasquez/GestorManicuria/issues"
+  },
+  "homepage": "https://github.com/felivasquez/GestorManicuria#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
